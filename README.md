@@ -6,6 +6,10 @@ A responsive product feedback questionnaire built with React, JavaScript, and Ta
 
 This project is a recreation of a product feedback form interface. It allows users to rate different aspects of a product through a simple and interactive questionnaire.
 
+## Live Demo
+
+[View Product Feedback Form](https://product-feedback-form-lg7paexcq-vow-memories.vercel.app/)
+
 ## Features
 
 - Responsive design for mobile, tablet, and desktop.
@@ -62,6 +66,13 @@ Through this project, I practised:
 - Creating responsive layouts with Tailwind CSS.
 - Improving accessibility in form controls.
 
+## Screenshots
+
+### Desktop View
+![Product Feedback Form - Desktop](screenshots/desktop.png)
+
+### Mobile View
+![Product Feedback Form - Mobile](screenshots/mobile.png)
 ## Author
 
 **Afoyorwoth Patricia**
